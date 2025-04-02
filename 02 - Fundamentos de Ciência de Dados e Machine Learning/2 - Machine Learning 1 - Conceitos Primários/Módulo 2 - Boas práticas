@@ -1,0 +1,20 @@
+Módulo 2 - Boas práticas
+Nesta seção você encontrará informações importantes que te ajudarão a aplicar efetivamente o que aprendeu.
+
+Compreensão dos Dados
+Antes de aplicar qualquer modelo de machine learning, é crucial entender a natureza dos dados. Isso inclui a identificação de variáveis relevantes, análise de distribuições e detecção de valores ausentes ou anômalos. Uma compreensão sólida dos dados garante que o modelo seja treinado de forma eficaz.
+
+Qualidade dos Dados
+A qualidade dos dados é fundamental para o sucesso de qualquer projeto de machine learning. Dados de baixa qualidade podem levar a modelos imprecisos. Portanto, é importante realizar limpeza e pré-processamento dos dados, garantindo que estejam prontos para análise.
+
+Integração de Programação e Estatística
+A programação, especialmente em Python, é uma ferramenta essencial para manipular e analisar grandes volumes de dados. A integração com conceitos estatísticos permite a criação de modelos mais robustos e a realização de análises mais precisas.
+
+Aplicação da Metodologia CRISP-DM
+Seguir a metodologia CRISP-DM ajuda a estruturar projetos de ciência de dados de maneira organizada. As etapas incluem compreensão do negócio, preparação dos dados, modelagem e avaliação, garantindo que o projeto atenda aos objetivos definidos.
+
+Exemplo de utilização no mercado de trabalho:
+
+Previsão de Vendas: Empresas utilizam modelos preditivos para estimar vendas futuras com base em dados históricos, ajustando estratégias de marketing e estoque de acordo com as previsões.
+
+Análise de Comportamento do Cliente: Modelos descritivos são usados para identificar padrões de comportamento dos clientes, permitindo que as empresas personalizem ofertas e melhorem a experiência do clientes.

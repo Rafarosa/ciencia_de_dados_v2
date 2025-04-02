@@ -1,0 +1,23 @@
+Módulo 2 - Reforce seu conhecimento
+Antes de revisar as respostas, tente respondê-las você mesmo, isso te ajudará a fortalecer sua compreensão. Esta é uma ótima maneira de aprender!
+
+O que é machine learning e como ele funciona?
+Machine learning é uma área da ciência da computação que permite que os computadores aprendam padrões e realizem tarefas com base em dados, sem a necessidade de comandos explícitos. O processo de machine learning é dividido em três etapas principais: fornecimento de dados, identificação de padrões pelo algoritmo e avaliação do desempenho do modelo.
+
+Por que a qualidade e quantidade dos dados são importantes em machine learning?
+A qualidade e quantidade dos dados são cruciais porque dados de baixa qualidade podem prejudicar o desempenho do modelo. Dados precisos e abrangentes permitem que o modelo aprenda padrões de forma eficaz, resultando em previsões mais precisas e confiáveis.
+
+Qual é o papel da estatística na ciência de dados?
+A estatística é um dos pilares fundamentais da ciência de dados, essencial para o funcionamento dos modelos de aprendizado de máquina. Conceitos estatísticos são utilizados para melhorar o desempenho dos modelos e são amplamente aplicados na análise de dados, incluindo cálculos de média, mediana e desvio padrão, além de validações e testes de hipóteses.
+
+Como a programação é utilizada na ciência de dados?
+A programação é uma ferramenta essencial para processar grandes volumes de dados de forma eficiente. Linguagens como Python e SQL são destacadas por sua capacidade de manipular dados, construir modelos de machine learning e realizar análises estatísticas.
+
+Quais são os principais tipos de modelos utilizados na ciência de dados?
+Os principais tipos de modelos na ciência de dados são preditivos e descritivos. Modelos preditivos, como classificação e regressão, são usados para prever eventos futuros ou estimar valores desconhecidos. Modelos descritivos são usados para entender e descrever padrões existentes nos dados, utilizando algoritmos de aprendizado não supervisionado, como agrupamento e redução de dimensionalidade.
+
+O que é a metodologia CRISP-DM e por que é importante?
+A metodologia CRISP-DM é uma estrutura essencial para a condução de projetos de ciência de dados. Ela garante que os projetos sejam realizados de maneira organizada e eficiente, seguindo etapas como compreensão dos objetivos do negócio, preparação dos dados, modelagem e avaliação do modelo. Seguir essas etapas na ordem correta ajuda a evitar problemas e retrabalho.
+
+Qual é a importância de entender a lógica do machine learning antes de se aprofundar nos conceitos matemáticos e de programação?
+Compreender a lógica do machine learning é essencial porque fornece uma base sólida para entender como os modelos funcionam e como eles podem ser aplicados a problemas do mundo real. Isso facilita o aprendizado dos conceitos matemáticos e de programação subjacentes, permitindo que os alunos desenvolvam modelos mais eficazes.

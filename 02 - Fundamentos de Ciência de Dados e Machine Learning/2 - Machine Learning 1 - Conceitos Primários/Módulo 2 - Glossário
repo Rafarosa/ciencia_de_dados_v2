@@ -1,0 +1,13 @@
+Módulo 2 - Glossário
+Lembre-se dos termos mais utilizados durante o módulo.
+CRISP-DM
+Metodologia padrão para a condução de projetos de ciência de dados, composta por etapas como compreensão dos objetivos do negócio, preparação dos dados, modelagem e avaliação do modelo, garantindo uma abordagem organizada e eficiente.
+
+Modelos Descritivos
+Modelos utilizados para entender e descrever padrões existentes nos dados, frequentemente aplicando algoritmos de aprendizado não supervisionado, como agrupamento e redução de dimensionalidade.
+
+Modelos Preditivos
+Modelos que incluem técnicas de classificação e regressão, usados para prever eventos futuros ou estimar valores desconhecidos com base em dados históricos.
+
+Redução de Dimensionalidade
+Técnica de aprendizado não supervisionado utilizada para reduzir o número de variáveis em um conjunto de dados, mantendo a maior quantidade possível de informação relevante.
