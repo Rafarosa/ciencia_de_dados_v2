@@ -1,0 +1,16 @@
+Módulo 4 - Glossário
+Lembre-se dos termos mais utilizados durante o módulo.
+Controle de versão
+Um sistema que registra alterações em um arquivo ou conjunto de arquivos ao longo do tempo, permitindo que você retorne a versões específicas mais tarde. É essencial para o desenvolvimento colaborativo de software.
+
+Git
+Um sistema de controle de versão distribuído, amplamente utilizado para rastrear mudanças no código-fonte durante o desenvolvimento de software. Ele permite que múltiplos desenvolvedores trabalhem em paralelo.
+
+GitHub
+Uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Oferece funcionalidades de colaboração, como revisão de código, gerenciamento de projetos e integração contínua.
+
+README
+Um arquivo de texto que fornece informações sobre outros arquivos em um diretório ou arquivo de projeto de software. Geralmente inclui instruções de instalação, uso e contribuição.
+
+Repositório
+Um local centralizado onde os dados são armazenados e gerenciados. No contexto do Git e GitHub, refere-se a um diretório ou espaço de armazenamento onde seu projeto reside.

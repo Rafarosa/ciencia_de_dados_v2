@@ -1,0 +1,28 @@
+Módulo 4 - Boas práticas
+
+Nesta seção você encontrará informações importantes que te ajudarão a aplicar efetivamente o que aprendeu.
+Utilização de Controle de Versão
+É fundamental utilizar o Git para controle de versão em projetos de ciência de dados. Isso permite rastrear alterações no código e nos dados, facilitando a colaboração e a reversão de mudanças quando necessário.
+
+Criação de Repositórios no GitHub
+Criar repositórios no GitHub para armazenar e compartilhar projetos de ciência de dados é uma prática recomendada. Isso não só ajuda na organização, mas também serve como um portfólio profissional acessível a recrutadores e colegas.
+
+Documentação com README
+Incluir um arquivo README bem estruturado em cada repositório é crucial. Ele deve fornecer uma visão geral do projeto, instruções de instalação, detalhes de contribuição e informações de licença, garantindo clareza e eficácia na comunicação.
+
+Personalização do Perfil no GitHub
+Personalizar o perfil no GitHub com informações pessoais e profissionais, além de projetos relevantes, pode aumentar a visibilidade e atratividade para recrutadores. Um perfil bem configurado é essencial para se destacar em processos seletivos.
+
+Exemplo de utilização no mercado de trabalho:
+Colaboração em Projetos de Ciência de Dados: Equipes de ciência de dados em empresas utilizam Git e GitHub para colaborar em projetos, permitindo que múltiplos membros trabalhem simultaneamente em diferentes partes do projeto sem conflitos.
+Portfólio Profissional: Cientistas de dados usam GitHub para criar portfólios online, onde podem demonstrar suas habilidades e projetos para potenciais empregadores, aumentando suas chances em processos seletivos.
+
+Exemplo de código básico para iniciar um repositório Git:
+
+Vamos discutir o código passo-a-passo:
+
+git init: Inicializa um novo repositório Git no diretório atual.
+git add .: Adiciona todos os arquivos do diretório atual ao repositório.
+git commit -m "Initial commit": Faz o commit das mudanças com a mensagem "Initial commit".
+git remote add origin: Conecta o repositório local a um repositório remoto no GitHub.
+git push -u origin master: Envia as mudanças para o repositório remoto na branch master.
