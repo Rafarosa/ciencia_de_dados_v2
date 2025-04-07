@@ -1,0 +1,29 @@
+Módulo 5
+
+Antes de revisar as respostas, tente respondê-las você mesmo, isso te ajudará a fortalecer sua compreensão. Esta é uma ótima maneira de aprender!
+O que é o Google Colab e por que ele é utilizado no curso?
+O Google Colab é uma plataforma web que permite a execução de códigos Python em um ambiente virtual. Ele é utilizado no curso por ser uma ferramenta acessível e prática para iniciantes, permitindo a criação e manipulação de notebooks, além de facilitar a execução de códigos sem a necessidade de instalação de software adicional.
+
+Qual a importância de salvar o trabalho fora do Google Colab?
+É importante salvar o trabalho fora do Google Colab devido às limitações de tempo das máquinas virtuais. Isso garante que você não perca seu progresso e possa continuar seu trabalho posteriormente sem interrupções.
+
+Quais são os tipos de dados nativos em Python abordados no curso?
+Os tipos de dados nativos em Python abordados no curso incluem inteiros, floats, strings e booleanos. Cada tipo de dado é explicado em detalhes, com exemplos práticos de como utilizá-los e manipulá-los.
+
+O que são variáveis e como elas são utilizadas em Python?
+Variáveis são espaços na memória que armazenam dados. Em Python, elas são utilizadas para guardar valores que podem ser manipulados ao longo do código. O curso ensina como declarar variáveis, boas práticas de nomenclatura e como identificar tipos de dados utilizando a função `type`.
+
+Quais são as boas práticas recomendadas para a utilização de variáveis?
+As boas práticas recomendadas incluem o uso de nomes descritivos para variáveis, a diferenciação entre maiúsculas e minúsculas, e a documentação do código com comentários. Essas práticas ajudam a manter o código organizado e fácil de entender.
+
+O que são strings e quais operações podem ser realizadas com elas?
+Strings são sequências de caracteres utilizadas para representar texto. O curso aborda diversas operações com strings, como concatenação, formatação, fatiamento e métodos como `upper`, `find` e `replace`. Essas operações são ilustradas com exemplos práticos.
+
+Como são utilizadas as variáveis booleanas e operadores lógicos em Python?
+Variáveis booleanas armazenam valores `True` ou `False`. O curso ensina como utilizar operadores lógicos (`and`, `or`, `not`) para realizar comparações e tomar decisões no código. Exemplos práticos, como um sistema de controle de acesso, são utilizados para ilustrar esses conceitos.
+
+O que são estruturas condicionais e como elas são utilizadas?
+Estruturas condicionais (`if`, `else`, `elif`) são utilizadas para executar diferentes blocos de código com base em condições específicas. O curso destaca a importância da indentação e dos testes de mesa para verificar o comportamento do código em diferentes cenários.
+
+Como são utilizados os laços de repetição em Python?
+Laços de repetição (`for`, `while`) são utilizados para percorrer coleções de dados. O curso ensina como utilizar o comando `range`, operadores compostos e o `enumerate` para obter índices ao percorrer listas. Exemplos práticos são fornecidos para ilustrar o uso desses laços.

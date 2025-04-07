@@ -1,0 +1,32 @@
+Módulo 6 -  Boas Práticas
+
+Nesta seção, você encontrará informações importantes que te ajudarão a aplicar efetivamente o que aprendeu.
+
+Seguir o PEP 8
+O PEP 8 é um guia de estilo para Python que promove a legibilidade e a consistência do código. Seguir essas diretrizes ajuda a manter um padrão uniforme, facilitando a colaboração e a manutenção do código.
+
+Utilizar ambientes virtuais
+Criar ambientes virtuais (venv) para cada projeto isola as dependências e evita conflitos entre pacotes. Isso garante que cada projeto tenha suas próprias versões de bibliotecas, facilitando a gestão e a replicação do ambiente de desenvolvimento.
+
+Documentar o código
+A documentação interna (comentários) e externa (docstrings) é essencial para que outros desenvolvedores (ou você mesmo no futuro) possam entender o propósito e o funcionamento do código. Isso é especialmente importante em projetos colaborativos.
+
+Utilizar uma IDE adequada
+Escolher uma IDE que atenda às suas necessidades pode aumentar significativamente a produtividade. PyCharm, por exemplo, oferece recursos como autocompletar, depuração e integração com controle de versão, facilitando o desenvolvimento e a manutenção do código.
+
+Exemplo de utilização no mercado de trabalho:
+Desenvolvimento de Scripts de Análise de Dados: Analistas de dados frequentemente escrevem scripts em Python para manipulação e análise de grandes volumes de dados. Seguir o PEP 8 e utilizar ambientes virtuais garante que esses scripts sejam legíveis, fáceis de manter e livres de conflitos de dependências.
+
+Automatização de Tarefas: Em empresas, é comum automatizar tarefas repetitivas, como a coleta e limpeza de dados. Utilizar uma IDE como PyCharm facilita a escrita e depuração desses scripts, aumentando a eficiência e reduzindo erros.
+
+Exemplo de código executável em Python que ilustra boas práticas:
+
+Vamos discutir o código passo-a-passo:
+
+main: Função principal que executa o script. Define uma lista de dados e chama a função process_data, imprimindo o resultado.
+
+process_data: Função que recebe uma lista de números e retorna a soma dos elementos. A função inclui uma docstring que explica seus argumentos e o valor de retorno.
+
+if __name__ == "__main__": Verifica se o script está sendo executado diretamente (não importado como módulo) e chama a função main.
+
+Este código segue o PEP 8, utiliza funções para estruturar o código e inclui documentação interna (docstrings) para facilitar a compreensão.

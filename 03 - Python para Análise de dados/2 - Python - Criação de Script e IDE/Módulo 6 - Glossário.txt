@@ -1,0 +1,17 @@
+Módulo 6 - Glossário
+Lembre-se dos termos mais utilizados durante o módulo.
+
+Ambiente Virtual (venv):
+Um ambiente isolado criado para um projeto Python específico, permitindo que dependências e pacotes sejam gerenciados separadamente, evitando conflitos com outras versões de pacotes instalados globalmente.
+
+Depuração (Debugging):
+O processo de identificar e corrigir erros no código. Ferramentas de depuração permitem a execução do código linha por linha, ajudando a entender o fluxo do programa e localizar problemas.
+
+PEP 8 (Python Enhancement Proposal 8):
+Um guia de estilo para escrever código Python, que promove a legibilidade e a consistência. Inclui recomendações sobre indentação, espaçamento, nomes de variáveis e outras práticas de codificação.
+
+PyPI (Python Package Index):
+Um repositório de software para a linguagem de programação Python, onde desenvolvedores podem compartilhar e instalar pacotes de software. É uma ferramenta essencial para a gestão de dependências em projetos Python.
+
+PyCharm:
+Uma IDE (Ambiente de Desenvolvimento Integrado) para Python, que oferece ferramentas avançadas para desenvolvimento, como autocompletar, depuração e integração com sistemas de controle de versão. Disponível em versões gratuita e paga.

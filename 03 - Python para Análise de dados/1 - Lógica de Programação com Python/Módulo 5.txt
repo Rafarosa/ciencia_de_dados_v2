@@ -1,0 +1,16 @@
+Módulo 5
+
+Olá, desejamos boas-vindas ao módulo Lógica de programação com Python do curso Profissão: Cientista de Dados.
+
+O Módulo 5 do curso oferece uma introdução abrangente aos conceitos fundamentais da programação em Python, utilizando o Google Colab como principal ferramenta de desenvolvimento. O módulo é estruturado em várias aulas, cada uma focada em diferentes aspectos essenciais para iniciantes:
+
+Introdução ao Python e Google Colab
+O Google Colab é uma plataforma web que permite a execução de códigos Python em um ambiente virtual. VOcê aprenderá a acessar o Colab, criar e manipular notebooks, e executar seu primeiro código Python utilizando a função print.
+
+Boas Práticas e Operadores
+Você analisará a importância de documentar o código com comentários e aprenderá os operadores aritméticos, relacionais e lógicos. A prática contínua e a documentação são essenciais para a manutenção e clareza do código.
+
+Estruturas Condicionais
+Você aprenderá estruturas condicionais (if, else, elif) e operadores lógicos. Também verá a importância da indentação e dos testes de mesa para verificar o comportamento do código em diferentes cenários.
+
+Este módulo fornece uma base sólida em Python e Google Colab, cobrindo desde a introdução e boas práticas até estruturas de dados e interação com o usuário. Vamos juntos avançar no seu caminho para se tornar um analista de dados de sucesso!

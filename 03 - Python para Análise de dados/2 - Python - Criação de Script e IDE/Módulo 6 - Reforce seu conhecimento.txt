@@ -1,0 +1,39 @@
+Módulo 6
+
+Antes de revisar as respostas, tente respondê-las você mesmo, isso te ajudará a fortalecer sua compreensão. Esta é uma ótima maneira de aprender!
+Quais são os conceitos fundamentais revisados na primeira aula?
+A primeira aula revisa conceitos essenciais de lógica de programação, como operadores, variáveis, estruturas condicionais e de repetição, listas e dicionários. Também aborda a diferença entre linguagens compiladas e interpretadas, introduz o conceito de depuração (debugging) e discute o PyPI (Python Package Index) e o PEP 8 (Python Enhancement Proposal).
+
+O que é o PEP 8 e por que é importante?
+O PEP 8 (Python Enhancement Proposal) é um guia de estilo para escrever código Python de forma clara e consistente. Seguir o PEP 8 é importante para garantir que o código seja legível e compreensível por outros desenvolvedores, facilitando a manutenção e colaboração em projetos.
+
+Quais são as principais IDEs recomendadas para Python?
+As principais IDEs recomendadas para Python são:
+
+Jupyter Notebook e JupyterLab: Ideais para cientistas de dados e aprendizado de máquina.
+
+PyCharm: Uma IDE completa com versões gratuita e paga, indicada para projetos grandes e complexos.
+
+Visual Studio Code (VS Code): Um editor extensível que se tornou uma IDE, suportando várias linguagens de programação.
+
+Sublime Text: Um editor leve e rápido, com uma interface simples.
+
+Spyder: Focado em ciência de dados, parte da distribuição Anaconda.
+
+Como instalar e configurar o PyCharm?
+Para instalar o PyCharm, você deve baixar a versão Community, que é gratuita e compatível com Windows, Linux e Mac. O processo de instalação inclui a configuração de variáveis de ambiente no Windows. Após a instalação, você pode criar um novo projeto e um arquivo main.py, além de configurar um ambiente virtual (venv).
+
+O que é um ambiente virtual e por que usá-lo?
+Um ambiente virtual é uma ferramenta que cria um ambiente isolado para projetos Python, permitindo que você gerencie dependências específicas do projeto sem interferir em outras instalações de Python no sistema. Usá-lo garante que as bibliotecas e pacotes necessários para um projeto não causem conflitos com outros projetos.
+
+Como configurar o terminal para CMD no Windows?
+Para configurar o terminal para CMD no Windows, você deve ajustar as configurações iniciais da IDE, como o ajuste de idioma e fonte. No PyCharm, isso pode ser feito acessando as configurações do terminal e selecionando o CMD como o terminal padrão.
+
+Qual a importância da depuração (debugging) no desenvolvimento de software?
+A depuração (debugging) é crucial no desenvolvimento de software porque permite a execução do código linha por linha, ajudando a identificar e corrigir erros. Isso melhora a compreensão do funcionamento do código e garante que ele funcione conforme o esperado.
+
+O que é o PyPI e como ele é utilizado?
+O PyPI (Python Package Index) é um repositório de software para a linguagem Python, onde você pode encontrar e instalar pacotes e bibliotecas adicionais para seus projetos. Ele é utilizado através do comando pip para instalar, atualizar e gerenciar pacotes.
+
+Como a configuração do ambiente de desenvolvimento pode impactar a produtividade?
+Uma configuração adequada do ambiente de desenvolvimento pode aumentar significativamente a produtividade, proporcionando ferramentas de automação, autocompletar, gerenciamento de projetos e depuração eficiente. Isso permite que os desenvolvedores se concentrem mais na lógica do código e menos em problemas técnicos e de configuração.

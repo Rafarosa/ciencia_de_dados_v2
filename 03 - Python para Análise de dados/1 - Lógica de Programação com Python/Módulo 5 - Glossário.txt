@@ -1,0 +1,14 @@
+Módulo 5
+
+Lembre-se dos termos mais utilizados durante o módulo.
+Concatenation:
+O processo de unir duas ou mais strings em uma única string. Em Python, isso é feito usando o operador `+`.
+
+Markdown:
+Uma linguagem de marcação leve usada para formatar texto em notebooks do Google Colab. Permite adicionar cabeçalhos, listas, links, imagens e outros elementos de formatação.
+
+Notebook:
+Um documento interativo que pode conter código executável, visualizações, texto formatado e outros elementos. No Google Colab, notebooks são usados para escrever e executar código Python.
+
+Type Conversion:
+O processo de converter um valor de um tipo de dado para outro, como de string para inteiro ou de float para string. Em Python, isso pode ser feito usando funções como `int()`, `float()`, e `str()`.

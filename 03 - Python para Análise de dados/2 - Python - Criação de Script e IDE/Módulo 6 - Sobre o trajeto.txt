@@ -1,0 +1,14 @@
+Módulo 6 - Sobre o trajeto
+
+Olá, desejamos boas-vindas ao módulo Python: Criação de Script e IDE do curso Profissão: Cientista de Dados.
+
+Neste módulo, vamos explorar a criação de scripts em Python e a utilização de IDEs (Ambientes Integrados de Desenvolvimento) para otimizar seu fluxo de trabalho. Abordaremos desde a revisão de conceitos fundamentais de lógica de programação até a configuração de ambientes de desenvolvimento e boas práticas de codificação:
+
+Revisão e Fundamentos
+Discutiremos a diferença entre linguagens compiladas e interpretadas, introduziremos o conceito de depuração (debugging) e abordaremos o PyPI (Python Package Index) e o PEP 8 (Python Enhancement Proposal), que define boas práticas de estilo de código em Python.
+
+Introdução às IDEs para Python
+Exploraremos o conceito de IDEs e destacaremos algumas das mais populares para Python, como Jupyter Notebook, PyCharm, Visual Studio Code (VS Code), Sublime Text e Spyder. A escolha da IDE dependerá das necessidades do projeto e das preferências pessoais.
+
+Configuração do Ambiente e Boas Práticas
+Focaremos na configuração do ambiente de desenvolvimento Python e nas boas práticas de programação, além de abordar a estruturação do código usando funções, a função principal (main), a indentação correta e a documentação interna e externa.
