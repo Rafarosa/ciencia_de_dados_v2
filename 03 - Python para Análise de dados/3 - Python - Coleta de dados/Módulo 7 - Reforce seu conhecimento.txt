@@ -1,0 +1,41 @@
+Antes de revisar as respostas, tente respondê-las você mesmo, isso te ajudará a fortalecer sua compreensão. 
+Esta é uma ótima maneira de aprender!
+
+Por que a coleta de dados é uma etapa crucial para analistas de dados?
+A coleta de dados é fundamental porque fornece a matéria-prima necessária para qualquer análise. 
+Sem dados precisos e relevantes, é impossível realizar análises significativas, gerar insights ou tomar decisões informadas. 
+A qualidade dos dados coletados impacta diretamente a qualidade das análises subsequentes.
+
+Quais são as principais fontes de dados abordadas no módulo?
+O módulo aborda diversas fontes de dados, incluindo web scraping, APIs, bancos de dados, arquivos CSV e Google Planilhas. 
+Cada uma dessas fontes oferece diferentes tipos de dados e métodos de coleta, permitindo uma abordagem abrangente para a coleta de dados.
+
+O que é web scraping e como o Beautiful Soup é utilizado nesse contexto?
+Web scraping é a técnica de extrair dados de páginas web. 
+O Beautiful Soup é uma biblioteca Python que facilita a análise e extração de dados de documentos HTML. 
+Ele permite navegar pela estrutura do HTML e extrair informações específicas, como texto de tags e atributos.
+
+Como a coleta de dados através de APIs é realizada?
+A coleta de dados através de APIs envolve enviar requisições HTTP para endpoints de API e receber respostas contendo dados. 
+No módulo, os alunos aprendem a utilizar a biblioteca `requests` para fazer essas requisições, lidar com autenticação e transformar respostas em JSON para fácil manipulação.
+
+Qual é a importância da autenticação ao utilizar APIs?
+A autenticação é crucial ao utilizar APIs para garantir a segurança e o controle de acesso aos dados. 
+Muitas APIs exigem chaves de acesso ou tokens de autenticação para verificar a identidade do usuário e garantir que apenas usuários autorizados possam acessar ou modificar os dados.
+
+Como Python pode ser integrado com MySQL para manipulação de dados?
+Python pode ser integrado com MySQL utilizando o módulo `pymysql`. 
+Isso permite a execução de consultas SQL diretamente do código Python, a manipulação de dados utilizando DataFrames do Pandas e a exportação de dados para formatos como Excel, CSV e JSON. Essa integração facilita a transformação e análise de dados armazenados em bancos de dados relacionais.
+
+O que é a biblioteca Faker e como ela é utilizada?
+A biblioteca Faker é utilizada para gerar dados fictícios, que podem ser usados para testes e enriquecimento de datasets. 
+No módulo, os alunos aprendem a instalar e utilizar a Faker para gerar dados localizados em português do Brasil e armazená-los em DataFrames do Pandas. 
+Isso é útil para simular cenários reais e testar código sem a necessidade de dados reais.
+
+Quais são as boas práticas de codificação abordadas no módulo?
+O módulo enfatiza boas práticas de codificação, como a organização do código em funções, a utilização de bibliotecas específicas para tarefas comuns (como `requests` para requisições HTTP e `pandas` para manipulação de dados), e a importância de escrever código limpo e legível. 
+Essas práticas ajudam a manter o código eficiente e fácil de manter.
+
+Como a manipulação de dados é realizada utilizando Pandas?
+A manipulação de dados com Pandas envolve a utilização de DataFrames, que são estruturas de dados tabulares. 
+Os alunos aprendem a carregar dados em DataFrames, realizar operações de limpeza e transformação, e exportar os dados para diferentes formatos. Pandas oferece uma ampla gama de funcionalidades para trabalhar com dados de forma eficiente.
