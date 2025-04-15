@@ -1,0 +1,22 @@
+Glossário
+
+Módulo 8
+Lembre-se dos termos mais utilizados durante o módulo.
+
+DataFrame:
+Uma estrutura de dados bidimensional, semelhante a uma tabela, que é usada para armazenar e manipular dados em Python, especialmente com a biblioteca Pandas. Cada coluna em um DataFrame pode conter diferentes tipos de dados.
+
+Dropna:
+Uma função da biblioteca Pandas usada para remover valores nulos de um DataFrame. Pode ser configurada para eliminar linhas ou colunas inteiras que contêm valores nulos.
+
+Fillna:
+Uma função da biblioteca Pandas que permite substituir valores nulos em um DataFrame por um valor especificado, ajudando a lidar com dados ausentes.
+
+IQR (Interquartile Range):
+Uma medida estatística que representa a diferença entre o terceiro quartil (Q3) e o primeiro quartil (Q1) de um conjunto de dados. É frequentemente usado para identificar outliers.
+
+Lambda:
+Uma expressão anônima em Python que permite criar pequenas funções descartáveis. É útil para operações simples e rápidas, especialmente em contextos de tratamento de dados.
+
+Z-score:
+Uma medida estatística que indica quantos desvios padrão um valor está distante da média de um conjunto de dados. É usado para identificar outliers.
