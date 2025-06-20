@@ -13,3 +13,19 @@ Descubra como avaliar a eficácia dos seus modelos de regressão linear utilizan
 Avance para a regressão linear múltipla, incorporando múltiplas variáveis independentes em seus modelos. Explore o uso de ferramentas como Python e a matriz de correlação para identificar e modelar relações complexas entre variáveis.
 
 Este módulo desafiará suas habilidades analíticas e de programação, preparando-o para aplicar técnicas de regressão linear em cenários reais. Ao final, você estará pronto para desenvolver modelos preditivos robustos e contribuir significativamente para projetos de ciência de dados.
+
+
+Confira a competência e as habilidades que você adquiriu:
+
+**Competência**:
+Aplicar técnicas de regressão linear para prever valores e entender relações entre variáveis em cenários reais, utilizando ferramentas computacionais.
+
+**Habilidades**:
+
+Enunciar a diferença entre correlação e regressão, destacando a capacidade de previsão da regressão linear.
+
+Explicar a aplicação da regressão linear simples usando Python para prever acessos a sites com base em investimentos publicitários.
+
+Implementar modelos de regressão linear múltipla utilizando bibliotecas Python, analisando a matriz de correlação.
+
+Avaliar modelos de regressão linear com o coeficiente de determinação (R²) para validar previsões em dados históricos.
