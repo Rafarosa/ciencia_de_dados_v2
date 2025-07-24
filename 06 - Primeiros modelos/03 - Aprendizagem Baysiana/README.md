@@ -12,3 +12,15 @@ Explore a correção de Laplace, uma técnica que adiciona uma contagem fictíci
 Aprenda sobre a importância da probabilidade a priori para evitar vieses em dados desbalanceados e descubra técnicas para ajustar modelos, como a "abordagem do raio", melhorando a classificação e garantindo resultados mais precisos.
 
 Este módulo desafiará suas habilidades analíticas e estatísticas, preparando-o para aplicar a Aprendizagem Bayesiana em projetos reais de Ciência de Dados. Continue avançando em sua jornada para se tornar um cientista de dados de sucesso!
+
+### Competência:
+Aplicar o Teorema de Bayes e o algoritmo Naive Bayes para resolver problemas de classificação, ajustando modelos para evitar vieses e avaliando seu desempenho com métricas adequadas.
+
+### Habilidades:
+1 - Enunciar o Teorema de Bayes e sua aplicação em problemas de classificação, como spam e avaliação de risco.
+
+2 - Explicar a correção de Laplace e sua importância para evitar probabilidades zero em modelos Naive Bayes.
+
+3 - Implementar o algoritmo Naive Bayes em Python, separando dados em treino e teste e avaliando com matriz de confusão.
+
+4 - Analisar o desempenho do modelo Naive Bayes usando métricas como recall, precisão e F1 score.
