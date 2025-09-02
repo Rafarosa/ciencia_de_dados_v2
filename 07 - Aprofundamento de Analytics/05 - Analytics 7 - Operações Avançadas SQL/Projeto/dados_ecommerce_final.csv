@@ -1,4 +1,4 @@
-id_client,"IFNULL(cl.first_name, 'N/Name')","IFNULL(cl.gender, 'N/Gender')","IFNULL(cl.job_title, 'N/Job title')","IFNULL(cl.state_name, 'N/State')",Category,Card_Type,Price
+id_client,First_Name,Gender,Job_Title,State_Name,Category,Card_Type,Price
 1,Domingo,Male,Structural Analysis Engineer,TX,Outdoors,mastercard,16.97
 2,Russell,Male,Speech Pathologist,MI,Grocery,mastercard,143.39
 3,Kimble,Male,Account Coordinator,AL,Music,mastercard,37.64
