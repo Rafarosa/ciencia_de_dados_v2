@@ -9,3 +9,12 @@ Descubra como as funções LOWER e UPPER podem ser usadas para realizar compara�
 
 ### Ordenação e Agrupamento de Dados
 Entenda como utilizar as cláusulas ORDER BY e GROUP BY para ordenar e agrupar dados de forma eficiente. Aprenda a aplicar funções agregadas como SUM, AVG, MAX e MIN para obter insights valiosos a partir dos seus dados.
+
+### Habilidades:
+1 - Definir consultas SQL usando DISTINCT e WHERE para filtrar dados eliminando duplicatas e aplicando condições específicas.
+
+2 - Esclarecer o uso de LOWER e UPPER para manipular strings, garantindo comparações insensíveis a maiúsculas e minúsculas.
+
+3 - Empregar operadores lógicos como AND, OR, NOT para construir consultas SQL complexas e precisas.
+
+4 - Analisar dados utilizando GROUP BY e ORDER BY para agrupar e ordenar resultados, aplicando funções agregadas como SUM e AVG.
