@@ -1,4 +1,4 @@
-id_client,First_name,Gender,Job_Title,state_name,Category,Card_Type,Price
+id_client,"IFNULL(cl.first_name, 'N/Name')","IFNULL(cl.gender, 'N/Gender')","IFNULL(cl.job_title, 'N/Job title')","IFNULL(cl.state_name, 'N/State')",Category,Card_Type,Price
 1,Domingo,Male,Structural Analysis Engineer,TX,Outdoors,mastercard,16.97
 2,Russell,Male,Speech Pathologist,MI,Grocery,mastercard,143.39
 3,Kimble,Male,Account Coordinator,AL,Music,mastercard,37.64
@@ -295,74 +295,74 @@ id_client,First_name,Gender,Job_Title,state_name,Category,Card_Type,Price
 173,Jacob,Male,Senior Financial Analyst,NY,Kids,mastercard,28.38
 174,Pip,Male,Chief Design Engineer,OK,Sports,mastercard,36.35
 175,Murvyn,Female,Safety Technician IV,OR,Kids,mastercard,141.71
-176,,,,,Home,mastercard,15.42
-177,,,,,Beauty,mastercard,48.98
-178,,,,,Baby,mastercard,143.16
-179,,,,,Games,mastercard,63.4
-180,,,,,Music,mastercard,40.5
-181,,,,,Sports,mastercard,22.1
-182,,,,,Tools,mastercard,139.85
-183,,,,,Movies,mastercard,56.22
-184,,,,,Beauty,mastercard,3.01
-185,,,,,Music,mastercard,32.31
-186,,,,,Jewelry,mastercard,143.78
-187,,,,,Baby,mastercard,14.0
-188,,,,,Shoes,mastercard,37.69
-189,,,,,Sports,mastercard,126.99
-190,,,,,Outdoors,mastercard,90.35
-191,,,,,Outdoors,mastercard,145.23
-192,,,,,Industrial,mastercard,76.81
-193,,,,,Garden,mastercard,139.49
-194,,,,,Music,mastercard,62.52
-195,,,,,Tools,mastercard,88.32
-196,,,,,Grocery,mastercard,0.05
-197,,,,,Music,mastercard,7.86
-198,,,,,Computers,mastercard,47.01
-199,,,,,Health,mastercard,78.65
-200,,,,,Shoes,mastercard,131.44
-201,,,,,Kids,mastercard,147.38
-202,,,,,Industrial,mastercard,145.48
-203,,,,,Jewelry,mastercard,14.46
-204,,,,,Grocery,mastercard,129.2
-205,,,,,Movies,mastercard,140.56
-206,,,,,Automotive,mastercard,103.79
-207,,,,,Baby,mastercard,22.7
-208,,,,,Shoes,mastercard,33.57
-209,,,,,Toys,mastercard,103.24
-210,,,,,Jewelry,mastercard,105.43
-211,,,,,Sports,mastercard,3.04
-212,,,,,Games,mastercard,118.25
-213,,,,,Automotive,mastercard,17.47
-214,,,,,Electronics,mastercard,50.17
-215,,,,,Jewelry,mastercard,145.37
-216,,,,,Movies,mastercard,130.62
-217,,,,,Jewelry,mastercard,41.55
-218,,,,,Grocery,mastercard,10.59
-219,,,,,Sports,mastercard,143.34
-220,,,,,Computers,mastercard,109.29
-221,,,,,Garden,mastercard,118.94
-222,,,,,Kids,mastercard,51.39
-223,,,,,Kids,mastercard,99.74
-224,,,,,Clothing,mastercard,121.61
-225,,,,,Games,mastercard,39.03
-226,,,,,Kids,mastercard,42.28
-227,,,,,Computers,mastercard,56.59
-228,,,,,Kids,mastercard,21.39
-229,,,,,Tools,mastercard,12.09
-230,,,,,Automotive,mastercard,22.49
-231,,,,,Tools,mastercard,65.05
-232,,,,,Kids,mastercard,88.78
-233,,,,,Automotive,mastercard,85.21
-234,,,,,Books,mastercard,42.98
-235,,,,,Kids,mastercard,44.04
-236,,,,,Tools,mastercard,28.33
-237,,,,,Electronics,mastercard,68.68
-238,,,,,Shoes,mastercard,35.83
-360,,,,,Games,mastercard,21.32
-361,,,,,Grocery,mastercard,87.23
-362,,,,,Clothing,mastercard,40.75
-363,,,,,Jewelry,mastercard,44.32
-364,,,,,Kids,mastercard,120.42
-365,,,,,Grocery,mastercard,24.31
-366,,,,,Tools,mastercard,111.53
-367,,,,,Computers,mastercard,84.57
+176,N/Name,N/Gender,N/Job title,N/State,Home,mastercard,15.42
+177,N/Name,N/Gender,N/Job title,N/State,Beauty,mastercard,48.98
+178,N/Name,N/Gender,N/Job title,N/State,Baby,mastercard,143.16
+179,N/Name,N/Gender,N/Job title,N/State,Games,mastercard,63.4
+180,N/Name,N/Gender,N/Job title,N/State,Music,mastercard,40.5
+181,N/Name,N/Gender,N/Job title,N/State,Sports,mastercard,22.1
+182,N/Name,N/Gender,N/Job title,N/State,Tools,mastercard,139.85
+183,N/Name,N/Gender,N/Job title,N/State,Movies,mastercard,56.22
+184,N/Name,N/Gender,N/Job title,N/State,Beauty,mastercard,3.01
+185,N/Name,N/Gender,N/Job title,N/State,Music,mastercard,32.31
+186,N/Name,N/Gender,N/Job title,N/State,Jewelry,mastercard,143.78
+187,N/Name,N/Gender,N/Job title,N/State,Baby,mastercard,14.0
+188,N/Name,N/Gender,N/Job title,N/State,Shoes,mastercard,37.69
+189,N/Name,N/Gender,N/Job title,N/State,Sports,mastercard,126.99
+190,N/Name,N/Gender,N/Job title,N/State,Outdoors,mastercard,90.35
+191,N/Name,N/Gender,N/Job title,N/State,Outdoors,mastercard,145.23
+192,N/Name,N/Gender,N/Job title,N/State,Industrial,mastercard,76.81
+193,N/Name,N/Gender,N/Job title,N/State,Garden,mastercard,139.49
+194,N/Name,N/Gender,N/Job title,N/State,Music,mastercard,62.52
+195,N/Name,N/Gender,N/Job title,N/State,Tools,mastercard,88.32
+196,N/Name,N/Gender,N/Job title,N/State,Grocery,mastercard,0.05
+197,N/Name,N/Gender,N/Job title,N/State,Music,mastercard,7.86
+198,N/Name,N/Gender,N/Job title,N/State,Computers,mastercard,47.01
+199,N/Name,N/Gender,N/Job title,N/State,Health,mastercard,78.65
+200,N/Name,N/Gender,N/Job title,N/State,Shoes,mastercard,131.44
+201,N/Name,N/Gender,N/Job title,N/State,Kids,mastercard,147.38
+202,N/Name,N/Gender,N/Job title,N/State,Industrial,mastercard,145.48
+203,N/Name,N/Gender,N/Job title,N/State,Jewelry,mastercard,14.46
+204,N/Name,N/Gender,N/Job title,N/State,Grocery,mastercard,129.2
+205,N/Name,N/Gender,N/Job title,N/State,Movies,mastercard,140.56
+206,N/Name,N/Gender,N/Job title,N/State,Automotive,mastercard,103.79
+207,N/Name,N/Gender,N/Job title,N/State,Baby,mastercard,22.7
+208,N/Name,N/Gender,N/Job title,N/State,Shoes,mastercard,33.57
+209,N/Name,N/Gender,N/Job title,N/State,Toys,mastercard,103.24
+210,N/Name,N/Gender,N/Job title,N/State,Jewelry,mastercard,105.43
+211,N/Name,N/Gender,N/Job title,N/State,Sports,mastercard,3.04
+212,N/Name,N/Gender,N/Job title,N/State,Games,mastercard,118.25
+213,N/Name,N/Gender,N/Job title,N/State,Automotive,mastercard,17.47
+214,N/Name,N/Gender,N/Job title,N/State,Electronics,mastercard,50.17
+215,N/Name,N/Gender,N/Job title,N/State,Jewelry,mastercard,145.37
+216,N/Name,N/Gender,N/Job title,N/State,Movies,mastercard,130.62
+217,N/Name,N/Gender,N/Job title,N/State,Jewelry,mastercard,41.55
+218,N/Name,N/Gender,N/Job title,N/State,Grocery,mastercard,10.59
+219,N/Name,N/Gender,N/Job title,N/State,Sports,mastercard,143.34
+220,N/Name,N/Gender,N/Job title,N/State,Computers,mastercard,109.29
+221,N/Name,N/Gender,N/Job title,N/State,Garden,mastercard,118.94
+222,N/Name,N/Gender,N/Job title,N/State,Kids,mastercard,51.39
+223,N/Name,N/Gender,N/Job title,N/State,Kids,mastercard,99.74
+224,N/Name,N/Gender,N/Job title,N/State,Clothing,mastercard,121.61
+225,N/Name,N/Gender,N/Job title,N/State,Games,mastercard,39.03
+226,N/Name,N/Gender,N/Job title,N/State,Kids,mastercard,42.28
+227,N/Name,N/Gender,N/Job title,N/State,Computers,mastercard,56.59
+228,N/Name,N/Gender,N/Job title,N/State,Kids,mastercard,21.39
+229,N/Name,N/Gender,N/Job title,N/State,Tools,mastercard,12.09
+230,N/Name,N/Gender,N/Job title,N/State,Automotive,mastercard,22.49
+231,N/Name,N/Gender,N/Job title,N/State,Tools,mastercard,65.05
+232,N/Name,N/Gender,N/Job title,N/State,Kids,mastercard,88.78
+233,N/Name,N/Gender,N/Job title,N/State,Automotive,mastercard,85.21
+234,N/Name,N/Gender,N/Job title,N/State,Books,mastercard,42.98
+235,N/Name,N/Gender,N/Job title,N/State,Kids,mastercard,44.04
+236,N/Name,N/Gender,N/Job title,N/State,Tools,mastercard,28.33
+237,N/Name,N/Gender,N/Job title,N/State,Electronics,mastercard,68.68
+238,N/Name,N/Gender,N/Job title,N/State,Shoes,mastercard,35.83
+360,N/Name,N/Gender,N/Job title,N/State,Games,mastercard,21.32
+361,N/Name,N/Gender,N/Job title,N/State,Grocery,mastercard,87.23
+362,N/Name,N/Gender,N/Job title,N/State,Clothing,mastercard,40.75
+363,N/Name,N/Gender,N/Job title,N/State,Jewelry,mastercard,44.32
+364,N/Name,N/Gender,N/Job title,N/State,Kids,mastercard,120.42
+365,N/Name,N/Gender,N/Job title,N/State,Grocery,mastercard,24.31
+366,N/Name,N/Gender,N/Job title,N/State,Tools,mastercard,111.53
+367,N/Name,N/Gender,N/Job title,N/State,Computers,mastercard,84.57
