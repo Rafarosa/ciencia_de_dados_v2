@@ -11,3 +11,14 @@ Explore o processo de aprendizado da regressão logística, incluindo a estimati
 ### Pré-processamento e Implementação Prática
 Aprenda a importância do pré-processamento de dados, incluindo a padronização e o balanceamento de classes. Implemente a regressão logística em Python usando a biblioteca Scikit-learn, e avalie o modelo com métricas avançadas como a curva ROC e AUC.
 
+### Competência:
+Aplicar a regressão logística para classificação binária, utilizando técnicas de pré-processamento e avaliação de modelos para prever categorias com precisão.
+
+### Habilidades:
+1 - Esclarecer o uso da função sigmoide na conversão de variáveis em probabilidades para classificação binária.
+
+2 - Implementar a regressão logística com Scikit-learn, ajustando o modelo com dados padronizados e balanceados.
+
+3 - Avaliar a precisão do modelo usando métricas como acurácia, recall, precisão, F1-score, e analisar a curva ROC e AUC.
+
+4 - Padronizar dados com StandardScaler e balancear classes usando SMOTE para evitar vieses no modelo.
