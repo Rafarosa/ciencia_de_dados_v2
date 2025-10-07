@@ -12,3 +12,16 @@ Aprenda a importância do pré-processamento de dados, incluindo o tratamento de
 Explore a técnica de Grid Search para otimizar hiperparâmetros e melhorar o desempenho dos modelos. Descubra como ajustar parâmetros específicos para a regressão logística e a árvore de decisão, garantindo resultados mais precisos.
 
 Este módulo desafiará suas habilidades analíticas e de modelagem, preparando você para aplicar esses conceitos em contextos reais e competições de Machine Learning. Vamos juntos rumo ao próximo nível!
+
+### Competência:
+Comparar e otimizar modelos de Machine Learning para identificar o mais adequado a um conjunto de dados específico, utilizando técnicas de pré-processamento e ajuste de hiperparâmetros.
+
+### Habilidades:
+
+1 - Aplicar regressão logística e árvore de decisão para prever a sobrevivência de passageiros do Titanic.
+
+2 - Implementar técnicas de pré-processamento como SMOTE e `StandardScaler` para balancear e padronizar dados.
+
+3 - Otimizar modelos com Grid Search ajustando hiperparâmetros como C, penalty, solver, Gini e entropia.
+
+4 - Avaliar o desempenho dos modelos otimizados em bases de teste e participar de competições no Kaggle.
