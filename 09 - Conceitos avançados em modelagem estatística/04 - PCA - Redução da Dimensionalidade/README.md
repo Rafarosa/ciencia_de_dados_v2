@@ -12,3 +12,15 @@ Aprenda o passo a passo do PCA, incluindo a centralização dos dados, cálculo 
 Aplique o PCA em um conjunto de dados real usando Python. Utilize bibliotecas como Pandas, NumPy, Scikit-Learn e Matplotlib para importar dados, aplicar o PCA e determinar o número ideal de componentes principais, visualizando a variância explicada por cada componente.
 
 Este módulo desafiará suas habilidades analíticas e de programação, preparando-o para aplicar o PCA em projetos futuros e destacando-se no campo da ciência de dados. Estamos ansiosos para ver como você aplicará essas técnicas em seu projeto final e em sua carreira. Continue avançando e aproveite ao máximo este módulo!
+
+### Competência:
+Aplicar a Análise de Componentes Principais (PCA) para reduzir a dimensionalidade de dados complexos, melhorando a eficiência e a interpretação em projetos de ciência de dados.
+
+Habilidades:
+1. Definir o conceito de redução de dimensionalidade e sua importância na ciência de dados.
+
+2. Explicar o processo do PCA, incluindo padronização, cálculo da matriz de covariância e seleção de componentes.
+
+3. Implementar o PCA em Python usando bibliotecas como pandas, NumPy e scikit-learn para reduzir variáveis.
+
+4. Avaliar a eficácia do PCA em modelos preditivos, mantendo precisão e acurácia em classificações.
