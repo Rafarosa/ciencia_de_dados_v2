@@ -12,3 +12,16 @@ Aprenda a implementar o SVM utilizando a biblioteca Scikit-learn em Python. Fami
 Descubra como os kernels permitem ao SVM lidar com dados não linearmente separáveis. Explore diferentes tipos de kernels, como linear, polinomial e RBF, e aprenda a escolher o kernel adequado para otimizar o desempenho do modelo.
 
 Este módulo é um passo importante para se destacar no mercado de trabalho, oferecendo um conhecimento profundo sobre SVM e sua aplicação prática. Estamos ansiosos para ver você aplicar essas técnicas avançadas de machine learning em problemas reais. Continue seu progresso e prepare-se para o próximo módulo, onde exploraremos um duelo de modelos entre o XGBoost e o SVM na base de dados do Titanic. Boa sorte e continue se dedicando!
+
+### Competência:
+Implementar e otimizar modelos de Support Vector Machine (SVM) para resolver problemas de classificação complexos utilizando diferentes kernels e parâmetros.
+
+Habilidades:
+
+1. Apontar a eficácia do SVM em lidar com datasets de alta dimensionalidade e classes não linearmente separáveis.
+
+2. Explicar o processo de treinamento do SVM, incluindo a criação de hiperplanos e o uso do parâmetro C para regularização.
+
+3. Aplicar o SVM utilizando a biblioteca Scikit-learn para resolver problemas de classificação com a base de dados "Fetal Health".
+
+4. Comparar diferentes kernels do SVM, como linear, POLY e RBF, e avaliar seu impacto na performance do modelo.
